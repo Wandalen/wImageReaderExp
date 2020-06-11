@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageReaderExp/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagereaderexp" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagereaderexp" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
