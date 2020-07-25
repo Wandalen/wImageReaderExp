@@ -1,5 +1,5 @@
 
-# module::ImageReaderExp  [![Status](https://github.com/Wandalen/wImageReaderExp/workflows/publish/badge.svg)](https://github.com/Wandalen/wImageReaderExp/actions?query=workflow%3Apublish) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
+# module::ImageReaderExp  [![status](https://github.com/Wandalen/wImageReaderExp/workflows/publish/badge.svg)](https://github.com/Wandalen/wImageReaderExp/actions?query=workflow%3Apublish) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
 
 ___
 
